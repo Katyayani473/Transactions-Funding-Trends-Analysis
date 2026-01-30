@@ -10,6 +10,7 @@
 -	Disclosed vs undisclosed deals
 -	Largest individual deals
 The analysis helps investors, startup founders, and financial analysts understand how funding flows in the Indian startup ecosystem.
+This project demonstrates strong skills in **data cleaning (Python),data analysis (MySQL) and data visualization (Power BI)**
 
 ---
 
@@ -156,32 +157,28 @@ KPIs
 •	Average Deal Size
 •	Total Startups
 ## 8 Key Insights
- Funding peaked in 2019
-Indicates strongest investor confidence.
- E-commerce & Technology received the highest funding
-These sectors dominate innovation.
- Bengaluru leads in number of deals
-It is India’s largest startup hub.
- Seed & Private Equity are most common investment types
-Early-stage funding dominates the ecosystem.
- Softbank & Tiger Global are top investors
-They appear frequently in large deals.
- Many deals are undisclosed
+- Funding peaked in 2019
+- Indicates strongest investor confidence.
+- E-commerce & Technology received the highest funding
+- These sectors dominate innovation.
+- Bengaluru leads in number of deals
+- It is India’s largest startup hub.
+- Seed & Private Equity are most common investment types
+- Early-stage funding dominates the ecosystem.
+- Softbank & Tiger Global are top investors,They appear frequently in large deals.
+- Many deals are undisclosed
  
 ## Conclusion
 The Indian startup ecosystem grew rapidly between 2015-2019, with major funding concentrated in:
-•	E-commerce
-•	Technology
-•	FinTech
-•	Consumer Internet
-Bengaluru emerged as the strongest startup hub, attracting maximum funding and investor activity.
-The Power BI dashboard provides an interactive and visual understanding of:
-•	Funding trends
-•	Investor behavior
-•	Industry performance
-•	Startup growth
-This project demonstrates strong skills in data cleaning (Python),
-data analysis (MySQL), and
-data visualization (Power BI).
+-	E-commerce
+-	Technology
+-	FinTech
+-	Consumer Internet
+- Bengaluru emerged as the strongest startup hub, attracting maximum funding and investor activity.
+- The Power BI dashboard provides an interactive and visual understanding of:
+- Funding trends
+-	Investor behavior
+-	Industry performance
+-	Startup growth
 
 

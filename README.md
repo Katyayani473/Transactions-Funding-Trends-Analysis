@@ -150,6 +150,9 @@ select IndustryVertical,count(*) as Total
  
 
 ## 7. Power BI Dashboard Contents
+## Dashboard Preview
+
+![Dashboard](Finance_Dashboard.png)
 KPIs
 •	Total Funding
 •	Total Deals
